@@ -1,0 +1,5 @@
+beautifulsoup4==4.13.5
+requests==2.32.5
+selenium==4.35.0
+stem==1.8.2
+tqdm==4.67.1
